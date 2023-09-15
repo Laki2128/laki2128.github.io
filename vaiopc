@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url(https://raw.githubusercontent.com/Laki2128/laki2128.github.io/main/docs/assets/images/websitebackground2.png);
+}
+</style>
+<body>
+<img src="https://www.business2community.com/wp-content/uploads/2016/04/welcome.gif.gif" alt="welcome to my homepage!" width="400" height="100">
+<h1 style="font-size:50px;">laki's site</h1>
+
+<p>a place for sony stuff among other old technology</p>
+<a href="https://vaiolibrary.com/index.php/Welcome_to_the_VAIO_Library"><img src="https://raw.githubusercontent.com/Laki2128/laki2128.github.io/main/docs/assets/images/Vaio_Logo.png" width="150" height="35"></a>
+<img src="https://raw.githubusercontent.com/Laki2128/laki2128.github.io/main/docs/assets/images/click%20here.png" alt="<-- Click Here!!!" width="200" height="35">
+<p></p>
+<style>
+  .blink {
+    animation: blinker 2s linear infinite;
+  }
+
+  @keyframes blinker {
+    25% {
+      opacity: 0;
+    }
+  }
+</style>
+</head>
+<body>
+
+<h1 style="color:red;" class="blink">Check out the vaiolibrary</h1>
+</body>
+<img src="https://media.tenor.com/MRCIli40TYoAAAAi/under-construction90s-90s.gif" alt="STOP!!!" width="60" height="60">
+<img src="https://raw.githubusercontent.com/Laki2128/laki2128.github.io/main/docs/assets/images/proxy-image.jpg" alt="under construction" width="200" height="60">
+
+</html>
